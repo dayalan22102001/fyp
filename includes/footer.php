@@ -9,12 +9,10 @@
                 <i class="fas fa-syringe ml-2"></i>
               </a>
             </h2>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-              aperiam,
-              eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+            <p>Our project is mainly focused to provide the services to the needy through a single web application and make the donation process easy. In this process the donor can easily reach the needy through the consent of the admin. In the other kinds of donations, Its main purpose is to provide a smart and easy way through  web Application for collects the donations of the donors both organ or blood deliver them to the respective organizations and provide the information to the respective doctors of that organization to maintain transparency. To manage the donor registration and user maintenance.  </p>
           </div>
           <div class="col-md-4 w3l-footer my-md-0 my-4">
-            <h3 class="mb-sm-3 mb-2 text-white">Address</h3>
+            <h3 class="mb-sm-3 mb-2 text-white"></h3>
             <ul class="list-unstyled">
               <?php 
 $pagetype="contactus";
