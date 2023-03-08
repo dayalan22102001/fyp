@@ -7,7 +7,7 @@ include('includes/config.php');
 <html lang="zxx">
 
 <head>
-	<title>About Us</title>
+	<title>Our App</title>
 	<!-- Meta tag Keywords -->
 	
 	<script>
@@ -56,15 +56,24 @@ include('includes/config.php');
 				<li class="breadcrumb-item">
 					<a href="index.php">Home</a>
 				</li>
-				<li class="breadcrumb-item active" aria-current="page">About Us</li>
+				<li class="breadcrumb-item active" aria-current="page">Our App</li>
 			</ol>
 		</div>
 	</div>
 	<!-- //page details -->
+	<div>
+		
+	</div>
+
+	
+
 
 	<!-- about -->
 	<section class="about py-5">
 		<div class="container py-xl-5 py-lg-3">
+
+		
+
 			<?php 
 $pagetype="aboutus";
 $sql = "SELECT type,detail,PageName from tblpages where type=:pagetype";
@@ -84,8 +93,19 @@ foreach($results as $result)
 				</span>
 			</div>
 			<p class="aboutpara text-center mx-auto"><?php  echo $result->detail; ?>.</p>
+		
+         
+      
+    }
+    
+
+
+
 <?php } } ?>
-			
+
+
+   
+			<img src="images\qrcode.png" width="200" height="200" title="Qr Code" alt="Qr Code" class = "qr"/>
 		</div>
 	</section>
 	<!-- //about -->
@@ -138,6 +158,8 @@ foreach($results as $result)
 	<!-- Necessary-JavaScript-File-For-Bootstrap -->
 
 	<!-- //Js files -->
+
+	
 
 </body>
 

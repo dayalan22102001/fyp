@@ -77,7 +77,7 @@ foreach($results as $result)
                     <!-- logo -->
                     <h1>
                         <a class="navbar-brand font-weight-bold font-italic" href="index.php">
-                            <span>BR</span>FSH
+                            <span>RED </span>WINGS
                             <i class="fas fa-syringe"></i>
                         </a>
                     </h1>
@@ -94,13 +94,13 @@ foreach($results as $result)
                                 </a>
                             </li>
                             <li class="nav-item mx-lg-4 my-lg-0 my-3">
-                                <a class="nav-link" href="about.php">About Us</a>
+                                <a class="nav-link" href="about.php">Our App</a>
                             </li>
                             <li class="nav-item mx-lg-4 my-lg-0 my-3">
                                 <a class="nav-link" href="contact.php">Contact Us</a>
                             </li>
                             <li class="nav-item mx-lg-4 my-lg-0 my-3">
-                                <a class="nav-link" href="donor-list.php">Organizations</a>
+                                <a class="nav-link" href="donor-list.php">Quick Donors</a>
                             </li>
                             <li class="nav-item mx-lg-4 my-lg-0 my-3">
                                 <a class="nav-link" href="search-donor.php">Search Donor</a>

@@ -37,7 +37,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 <html lang="zxx">
 
 <head>
-    <title>Blood Bank Donar Management System | Blood Requerer </title>
+    <title>Blood Request</title>
     <!-- Meta tag Keywords -->
     
     <script>

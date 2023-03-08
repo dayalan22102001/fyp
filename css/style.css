@@ -125,6 +125,7 @@ a:hover {
     background: #4575bd;
 }
 
+
 /* social icons */
 .top-right-info li i {
     color: #fff;
@@ -955,6 +956,13 @@ a.w3_agile_google:hover {
 /* //footer */
 /* inner pages */
 /* about page */
+
+.qr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 .inner-banner-w3ls {
     background: url(../images/banner3.jpg) no-repeat center;
     background-size: cover;
@@ -1128,7 +1136,7 @@ a.w3_agile_google:hover {
 }
 
 /* //team responsive */
-/* //about page */
+/* //  page */
 /* single page */
 h6.blog-first {
     font-weight: 400;

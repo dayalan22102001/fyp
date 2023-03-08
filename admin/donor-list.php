@@ -127,8 +127,8 @@ $msg="Record deleted Successfully ";
 											<th>Name</th>
 											<th>Mobile No</th>
 											<th>Email</th>
-											<th>Age</th>
 											<th>Gender</th>
+											<th>Age</th>
 											<th>Blood Group</th>
 											<th>address</th>
 											<th>Message </th>

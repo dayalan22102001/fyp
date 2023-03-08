@@ -59,7 +59,7 @@ echo "<script>alert('Email-id already exist. Please try again');</script>";
 <html lang="zxx">
 
 <head>
-	<title>Blood Bank Donar Management System | About Us </title>
+	<title> About Us </title>
 	<!-- Meta tag Keywords -->
 	
 	<script>
